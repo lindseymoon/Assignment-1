@@ -1,0 +1,4 @@
+﻿  SourceCode.cpp
+\\cs1\2020\lmoon20\cs172-1\assignment #1\ex01_01\ex01_01\sourcecode.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EX01_01.vcxproj -> \\cs1\2020\lmoon20\CS172-1\Assignment #1\EX01_01\Debug\EX01_01.exe
+  EX01_01.vcxproj -> \\cs1\2020\lmoon20\CS172-1\Assignment #1\EX01_01\Debug\EX01_01.pdb (Full PDB)
